@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ijbueand and I'm from Spain
 - 👀 I’m interested in Business Analytics applied to Healthcare & Life Science industry
 - 🌱 I’m currently learning adv. Python for Data Science and Artificial Intelligence
-- 🌳 I'm a grad biotechnologist with some experience working on SQL (adv.), C (int.), VBA (beg.), and R (beg.)
+- 🌳 I'm a grad biotechnologist with some experience working on Python (adv.), SQL (adv.), C (int.), VBA (beg.), and R (beg.)
 - 💞️ I’m looking to collaborate on projects that connect science with real-world problems!
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/isaiasbue/
