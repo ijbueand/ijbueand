@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ijbueand and I'm from Spain
-- 👀 I’m interested in Data Analytics and Machine Learning applied to Healthcare & Financial Services Industries
-- 🌱 I’m currently learning adv. Python for Data Science and Artificial Intelligence
-- 🌳 I'm a grad biotechnologist with some experience working on Python (adv.), SQL (adv.), C (int.), VBA (beg.), and R (beg.)
-- 💞️ I’m looking to collaborate on projects that connect science with real-world problems!
+- 👀 I’m interested in Data Analytics and Machine Learning applied to Financial Services Industries
+- 🌱 I’m currently learning adv. Python for Data Science and Machine Learning
+- 🌳 I've experience working with Python (adv.), SQL (adv.), C (int.), VBA (beg.), and R (beg.)
+- 💞️ I’m looking to collaborate on projects that connect data science with real-world problems!
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/isaiasbue/
